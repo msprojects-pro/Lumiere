@@ -2,19 +2,18 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Lumière Salon & Spa | Premium Web Experience
 
-This contains everything you need to run your app locally.
+Welcome to the official repository for **Lumière Salon & Spa**. This project features a high-end, atmospheric luxury design tailored for a premium salon experience.
 
-View your app in AI Studio: https://ai.studio/apps/4e2e7f78-3b1c-4aff-9212-a0e385864cd1
+## ✨ Key Features
+* **Luxury Aesthetic:** Deep color palettes with gold accents and glassmorphism.
+* **Fully Responsive:** Optimized for mobile, tablet, and desktop screens.
+* **Modern Tech Stack:** Built using Vite for lightning-fast performance.
+* **Clean UI/UX:** Focused on user engagement and elegant navigation.
 
-## Run Locally
+## 🚀 Live Demo
+View the live project here: [lumierespa.netlify.app]
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+*Designed & Developed by Muhammad Sufyan
